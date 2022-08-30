@@ -24,3 +24,4 @@ l = []
 lst = NextGreaterElemtent.nextGreaterElement(l,n1,n2)
 print(lst)
 
+print(lst)
